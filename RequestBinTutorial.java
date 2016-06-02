@@ -10,8 +10,8 @@ public class RequestBinTutorial
 	{
 		// TODO Auto-generated method stub
 		System.out.println("Get Method:"+getMethod("http://httpbin.org/get"));
-		//System.out.println("Post Method:"+getMethod("http://httpbin.org/post"));
-		//System.out.println("Header Method:"+getMethod("http://httpbin.org/headers"));
+		System.out.println("Post Method:"+getMethod("http://httpbin.org/post"));
+		System.out.println("Header Method:"+getMethod("http://httpbin.org/headers"));
 	}
 	
 	public static  String getMethod(String url)
