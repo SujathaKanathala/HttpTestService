@@ -1,8 +1,12 @@
 # HttpTestService
 
-Purpose              : Testing Http Library;
-Automation Framework : Eclipse;
+Purpose              : Testing Http Library
+
+Automation Framework : Eclipse
+
 Programming Language : Java
+
+
 
 Steps to execute the sourc code is
 
