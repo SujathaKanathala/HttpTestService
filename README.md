@@ -1,7 +1,22 @@
 # HttpTestService
-Testing Http Library
-The purpose of this project is to test the Http test service like GET, POST and Header End point too.
-1.First it test and get response from GetMethod
-2.Secondly, it test and get response from PostMethod
-3.Finally, it test and get response from Header.
+
+Purpose              : Testing Http Library
+Automation Framework : Eclipse
+Programming Language : Java
+
+Steps to execute the sourc code is
+
+1. Include org.apache.http jar file in eclipse library.
+
+2. I have included all three test cases i.e. Get,Post and Header methods in one source file.
+
+3. Calling firstly GetMethod to test and get response from Get method when status is 200.
+
+4. Secondly, it call Post method and get response.
+
+5. Thirdly, it call header method and get response.
+
+6. Executed source code successfully with No Compile and Runtime Exceptions.
+
+
 
